@@ -7,8 +7,8 @@
 
 #include "lexerf.h"
 #include "parserf.h"
-#include "./hashmap/hashmapoperators.h"
-#include "./hashmap/hashmap.h"
+#include "hashmapoperators.h"
+#include "hashmap.h"
 
 #define MAX_STACK_SIZE_SIZE 1024
 
